@@ -19742,3 +19742,17 @@ translate russian signs_with_autumn_87147a15:
     # u "My pleasure."
     u "С удовольствием."
 
+# TODO: Translation updated at 2024-07-02 14:18
+
+# game/v7/v7.rpy:16155
+translate russian fr4chloe2_00fb2689:
+
+    # u "(I should probably get back to Emily.)"
+    u "(Наверное, мне пора вернуться к Эмили)."
+
+translate russian strings:
+
+    # game/v7/v7.rpy:9354
+    old "Say something direct"
+    new "Скажи прямо"
+

@@ -493,3 +493,11 @@ translate russian strings:
     new "Нет, секунду"
     old "I'm gonna beat his ass"
     new "Я надеру ему задницу"
+# TODO: Translation updated at 2024-07-02 14:18
+
+# game/v12/scene1a.rpy:543
+translate russian v12s1a_failed_timer_88d710ce:
+
+    # u "(I should check my phone.)"
+    u "(Надо проверить телефон.)"
+

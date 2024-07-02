@@ -4105,3 +4105,17 @@ translate russian strings:
     old "The trolley problem involves hypothetical people and/or animals being run over by a train and can be a lot to handle. The following scene might make you feel uncomfortable or uneasy. Do you wish to skip over the trolley problem scene?"
     new "Проблема вагонетки связана с гипотетическими людьми и/или животными, которых переезжает поезд, и может быть очень сложной. Следующая сцена может вызвать у вас чувство неловкости или беспокойства. Хотите ли вы пропустить сцену с проблемой вагонетки?"
 
+# TODO: Translation updated at 2024-07-02 14:18
+
+# game/v5/v5.rpy:4293
+translate russian continueba_d5c404f8:
+
+    # u "(I should reply to Amber.)"
+    u "(Я должен ответить Эмбер.)"
+
+# game/v5/v5.rpy:4313
+translate russian continueba_e4edb176:
+
+    # u "(I should reply to Chloe.)"
+    u "(Я должен ответить Хлое.)"
+

@@ -6118,3 +6118,311 @@ translate russian v12s7_lauren1_f469bb4e:
     # u "*Laughs* Wait, your character is a killer on the run but you're saying you're not the killer? I don't know if I can believe that."
     u "*Смеётся* Подожди, твой персонаж - убийца в бегах, но ты утверждаешь, что ты не убийца? Не знаю, я не могу в это поверить."
 
+# TODO: Translation updated at 2024-07-02 14:18
+
+# game/v12/scene7.rpy:2670
+translate russian v12s7_lindsey_charli1_e068b7b7:
+
+    # u "Surprised we haven't crashed yet."
+    u "Удивительно, что мы ещё не разбились."
+
+# game/v12/scene7.rpy:2683
+translate russian v12s7_lindsey_charli1_6994b47d:
+
+    # li "Hey hey, got any good leads for us? I ran everything over with the Captain and we haven't come up with anything."
+    li "Эй-эй, есть какие-нибудь хорошие зацепки? Я проверила всё с капитаном, но мы ничего не нашли."
+
+# game/v12/scene7.rpy:2688
+translate russian v12s7_lindsey_charli1_5ae69c00:
+
+    # u "I've got nothing, haven't been doing much looking around."
+    u "У меня ничего нет, я особо не осматривался."
+
+# game/v12/scene7.rpy:2693
+translate russian v12s7_lindsey_charli1_4943de9f:
+
+    # charli "Murderers don't need to look around for the murderer."
+    charli "Убийцам не нужно оглядываться по сторонам в поисках убийцы."
+
+# game/v12/scene7.rpy:2698
+translate russian v12s7_lindsey_charli1_02a6193c:
+
+    # li "And you think he's the murderer because..."
+    li "И ты думаешь, что он убийца, потому что..."
+
+# game/v12/scene7.rpy:2703
+translate russian v12s7_lindsey_charli1_056914d4:
+
+    # charli "Mr. Lee gave us our roles and it would make sense to me that he'd choose [name] as the killer."
+    charli "Мистер Ли дал нам наши роли, и для меня было бы логично, если бы он выбрал [name] на роль убийцы."
+
+# game/v12/scene7.rpy:2708
+translate russian v12s7_lindsey_charli1_6b3a3f06:
+
+    # li "Well, let's not jump to conclusions. So far, based on my notes I've ruled out some people. I've ruled out Imre, Ryan, and Amber."
+    li "Ну, давайте не будем спешить с выводами. Пока что, основываясь на своих записях, я исключила некоторых людей. Я исключила Имре, Райна и Эмбер."
+
+# game/v12/scene7.rpy:2713
+translate russian v12s7_lindsey_charli1_fbcf0b70:
+
+    # u "How'd you rule them out?"
+    u "Как вы их исключили?"
+
+# game/v12/scene7.rpy:2718
+translate russian v12s7_lindsey_charli1_d7da7292:
+
+    # li "Well, it was actually Charli. Charli, do you want to explain?"
+    li "Ну, вообще-то это был Чарли. Чарли, не хочешь объяснить?"
+
+# game/v12/scene7.rpy:2723
+translate russian v12s7_lindsey_charli1_9f9a3d0c:
+
+    # charli "You may have a hard time understanding so try and focus."
+    charli "Возможно, вам будет трудно понять, поэтому постарайтесь сосредоточиться."
+
+# game/v12/scene7.rpy:2728
+translate russian v12s7_lindsey_charli1_57ae9944:
+
+    # u "*Sighs*"
+    u "*Вздох*"
+
+# game/v12/scene7.rpy:2733
+translate russian v12s7_lindsey_charli1_1fc8f12b:
+
+    # charli "Imre wants the game to be over, if he was the murderer he would've killed Ryan in front of someone in order to get caught."
+    charli "Имре хочет, чтобы игра закончилась, если бы он был убийцей, то убил бы Райна на глазах у кого-нибудь, чтобы его поймали."
+
+# game/v12/scene7.rpy:2734
+translate russian v12s7_lindsey_charli1_6c71cf84:
+
+    # charli "Ryan would have killed Imre out of frustration and Amber has had too many opportunities to kill people yet she hasn't. So we know none of them are the killer."
+    charli "Райн убил бы Имре от разочарования, а у Эмбер было слишком много возможностей убить людей, но она этого не сделала. Поэтому мы знаем, что никто из них не является убийцей."
+
+# game/v12/scene7.rpy:2739
+translate russian v12s7_lindsey_charli1_74d6accc:
+
+    # u "Are there people you're suspicious of?"
+    u "А кто под подозрением?"
+
+# game/v12/scene7.rpy:2744
+translate russian v12s7_lindsey_charli1_6fa787c4:
+
+    # charli "Outside of you, no."
+    charli "Кроме тебя, никто."
+
+# game/v12/scene7.rpy:2749
+translate russian v12s7_lindsey_charli1_ea1ccb3c:
+
+    # li "I have other suspicions, as a detective it's my job to be open minded. I'm suspecting Lauren."
+    li "У меня есть другие подозрения, но как детектив, моя работа должна быть непредвзятой. Я подозреваю Лорен."
+
+# game/v12/scene7.rpy:2754
+translate russian v12s7_lindsey_charli1_fb608404:
+
+    # charli "Because she's a criminal."
+    charli "Потому что она преступница."
+
+# game/v12/scene7.rpy:2759
+translate russian v12s7_lindsey_charli1_c1f92966:
+
+    # li "Well, yes."
+    li "Ну, да."
+
+# game/v12/scene7.rpy:2764
+translate russian v12s7_lindsey_charli1_ec7d5895:
+
+    # charli "*Chuckles* It's definitely not her, too obvious and Mr. Lee would never choose her."
+    charli "*Хихикает* Это точно не она, слишком очевидно, и мистер Ли никогда бы не выбрал ее."
+
+# game/v12/scene7.rpy:2769
+translate russian v12s7_lindsey_charli1_ca1c2bf8:
+
+    # li "Or that's what he wants you to think. When solving a problem, you always gotta work backwards, that way you're never surprised by what's to come."
+    li "Или он хочет, чтобы вы так думали. Решая проблему, всегда нужно работать в обратном направлении, чтобы не удивляться тому, что будет."
+
+# game/v12/scene7.rpy:2774
+translate russian v12s7_lindsey_charli1_1afd1044:
+
+    # u "Yeah, c'mon now Charli."
+    u "Да, давай же, Чарли."
+
+# game/v12/scene7.rpy:2779
+translate russian v12s7_lindsey_charli1_8e6a4518:
+
+    # charli "I'm not sure that applies here., I'm itching to use my PA system though, so once you find something worth announcing please let me know."
+    charli "Я не уверен, что это применимо здесь. У меня уже руки чешутся использовать мою систему громкой связи, так что как только вы найдете что-то стоящее, пожалуйста, дайте мне знать."
+
+# game/v12/scene7.rpy:2784
+translate russian v12s7_lindsey_charli1_2c607ab5:
+
+    # li "Only if you let me join you."
+    li "Только если вы позволите мне присоединиться к вам."
+
+# game/v12/scene7.rpy:2789
+translate russian v12s7_lindsey_charli1_e4632cf5:
+
+    # charli "I don't see why not."
+    charli "Не понимаю, почему бы и нет."
+
+# game/v12/scene7.rpy:2794
+translate russian v12s7_lindsey_charli1_f4e6570c:
+
+    # li "Good, [name]. You sure there's nothing you've seen?"
+    li "Хорошо, [name]. Ты уверен, что ничего не видел?"
+
+# game/v12/scene7.rpy:2802
+translate russian v12s7_lindsey_charli1_4ab862d0:
+
+    # u "Well, I did see Ryan say something about wiping everyone out. He said it to Imre, but I don't know what the context was."
+    u "Ну, я видел, как Райн сказал что-то о том, что нужно всех уничтожить. Он сказал это Имре, но я не знаю, в каком контексте."
+
+# game/v12/scene7.rpy:2807
+translate russian v12s7_lindsey_charli1_6e9bf3bd:
+
+    # charli "Throwing the blame, huh?"
+    charli "Сваливаешь вину, да?"
+
+# game/v12/scene7.rpy:2812
+translate russian v12s7_lindsey_charli1_491f579e:
+
+    # u "Uhh no, just saying what I heard."
+    u "Нет, просто говорю то, что слышал."
+
+# game/v12/scene7.rpy:2818
+translate russian v12s7_lindsey_charli1_fb065a6b:
+
+    # u "Nope, nothing. Haven't got a clue who it is."
+    u "Нет, ничего. Понятия не имею."
+
+# game/v12/scene7.rpy:2823
+translate russian v12s7_lindsey_charli1_bcfea071:
+
+    # charli "Don't want to admit it's you, but also don't want to look suspicious by passing the blame. You're too predictable."
+    charli "Не хочешь признавать, что это ты, но и не хочешь выглядеть подозрительно, перекладывая вину. Ты слишком предсказуем."
+
+# game/v12/scene7.rpy:2828
+translate russian v12s7_lindsey_charli1_285608e2:
+
+    # u "Whatever you say man. Don't let that Captain shit go to your head."
+    u "Как скажешь, мужик. Не позволяй этому капитанскому дерьму забить тебе голову."
+
+# game/v12/scene7.rpy:2833
+translate russian v12s7_lindsey_charli1_a2b96ec5:
+
+    # li "Hmmm, well I'm gonna start with Ryan. I know we ruled him out but I'm still suspicious."
+    li "Хммм, ну я начну с Райна. Я знаю, что мы исключили его, но я все еще подозреваю его."
+
+# game/v12/scene7.rpy:2838
+translate russian v12s7_lindsey_charli1_8af5897a:
+
+    # charli "So you're leaving me here then?"
+    charli "Значит, ты оставляешь меня здесь?"
+
+# game/v12/scene7.rpy:2843
+translate russian v12s7_lindsey_charli1_042a8f6a:
+
+    # li "Yeah, sorry. *Chuckles*"
+    li "Да, извини. *Хихикает*"
+
+# game/v12/scene7.rpy:2850
+translate russian v12s7_lindsey_charli1_39aaee93:
+
+    # u "Isn't it smarter to stay up here the whole time? You know Charli isn't the killer, plus Amber is supposed to be keeping you guys updated, right?"
+    u "Разве не умнее оставаться здесь всё это время? Ты знаешь, что Чарли не убийца, плюс Эмбер должна держать вас в курсе событий, верно?"
+
+# game/v12/scene7.rpy:2855
+translate russian v12s7_lindsey_charli1_3ac61ec7:
+
+    # li "True... It's probably more fun out there though."
+    li "Правда... Хотя там, наверное, веселее."
+
+# game/v12/scene7.rpy:2860
+translate russian v12s7_lindsey_charli1_8ac3f6ad:
+
+    # charli "Oh..."
+    charli "Ох..."
+
+# game/v12/scene7.rpy:2865
+translate russian v12s7_lindsey_charli1_16df0f0f:
+
+    # li "No, I- I didn't mean it like that, I... Nevermind. *Laughs* I'm just gonna stay here. Where we're both safe..."
+    li "Нет, я... я не это имела в виду, я... Неважно. *Смеется* Я просто останусь здесь. Там, где мы оба в безопасности..."
+
+# game/v12/scene7.rpy:2870
+translate russian v12s7_lindsey_charli1_c2ce717f:
+
+    # charli "Yay!"
+    charli "Ура!"
+
+# game/v12/scene7.rpy:2875
+translate russian v12s7_lindsey_charli1_aa093f91:
+
+    # u "(Yay...) Well, I'll come check on you in a bit, yeah?"
+    u "(Ура...) Ну, я зайду проведать тебя, хорошо?"
+
+# game/v12/scene7.rpy:2880
+translate russian v12s7_lindsey_charli1_c182f0ab:
+
+    # li "Sounds good!"
+    li "Хорошо!"
+
+# game/v12/scene7.rpy:2888
+translate russian v12s7_lindsey_charli1_ee76ab83:
+
+    # u "The more people we have investigating, the quicker we can find out who the killer is."
+    u "Чем больше людей будут вести расследование, тем быстрее мы сможем узнать, кто убийца."
+
+# game/v12/scene7.rpy:2893
+translate russian v12s7_lindsey_charli1_526be1e8:
+
+    # li "Exactly. I'll come check on you every so often, okay? *Chuckles*"
+    li "Точно. Я буду приходить проверять тебя время от времени, хорошо? *Хихикает*"
+
+# game/v12/scene7.rpy:2898
+translate russian v12s7_lindsey_charli1_7a33eaf3:
+
+    # charli "If you come back and I'm not here then [name] was the killer."
+    charli "Если ты вернешься, а меня здесь не будет, значит, убийцей был [name]."
+
+# game/v12/scene7.rpy:2903
+translate russian v12s7_lindsey_charli1_c8d40bb4:
+
+    # li "Noted."
+    li "Принято к сведению."
+
+# game/v12/scene7.rpy:2913
+translate russian v12s7_lindsey_charli1_0e5718dd:
+
+    # charli "Hurry up and get it over with."
+    charli "Поторопитесь и покончите с этим."
+
+# game/v12/scene7.rpy:2918
+translate russian v12s7_lindsey_charli1_34db8439:
+
+    # u "Ha, I couldn't be a good guy to you even in a made up scenario."
+    u "Ха, я не смог бы быть хорошим парнем для тебя даже в придуманном сценарии."
+
+# game/v12/scene7.rpy:2923
+translate russian v12s7_lindsey_charli1_96733f97:
+
+    # charli "Nope."
+    charli "Неа."
+
+# game/v12/scene7.rpy:2928
+translate russian v12s7_lindsey_charli1_a155519e:
+
+    # u "Well, definitely not hanging around you for fun, later Charli."
+    u "Ну, уж точно не для развлечения, позже, Чарли."
+
+# game/v12/scene7.rpy:2933
+translate russian v12s7_lindsey_charli1_86b12f40:
+
+    # charli "..."
+    charli "..."
+
+# game/v12/scene7.rpy:2938
+translate russian v12s7_lindsey_charli1_e51ea262:
+
+    # u "(Asshole.)"
+    u "(Засранец.)"
+

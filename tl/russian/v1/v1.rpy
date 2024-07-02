@@ -4,7 +4,7 @@
 translate russian starta_cf384216:
 
     # em "I know what I did was bad..."
-    em "Я знаю, что сделал плохо ..."
+    em "Я знаю, что сделала плохо ..."
 
 # game/v1/v1.rpy:46
 translate russian starta_64fd2540:
@@ -5524,4 +5524,516 @@ translate russian be_bd_a880f70a:
 
     # u "Hahaha, sounds like the Dean was into you."
     u "Хахаха, похоже, что ты понравилась декану."
+
+# TODO: Translation updated at 2024-07-02 14:18
+
+# game/v1/v1.rpy:12
+translate russian v1_start_cf384216:
+
+    # em "I know what I did was bad..."
+    em "Я знаю, что сделала плохо..."
+
+# game/v1/v1.rpy:14
+translate russian v1_start_64fd2540:
+
+    # em "But I'll do anything to make it up to you."
+    em "Но я сделаю всё, чтобы это исправить."
+
+# game/v1/v1.rpy:19
+translate russian v1_start_bf767b85:
+
+    # em "Anything."
+    em "Что угодно."
+
+# game/v1/v1.rpy:27
+translate russian v1_start_a412f2c0:
+
+    # "Honey?"
+    "Милый?"
+
+# game/v1/v1.rpy:37
+translate russian v1_start_b3630c9b:
+
+    # u "Hmm...?"
+    u "Хмм...?"
+
+# game/v1/v1.rpy:42
+translate russian v1_start_d8f49870:
+
+    # ju "Breakfast is ready!"
+    ju "Завтрак готов!"
+
+# game/v1/v1.rpy:47
+translate russian v1_start_d1bbd257:
+
+    # u "Mhmm... I'll be right down."
+    u "Мхмм... Сейчас спущусь."
+
+# game/v1/v1.rpy:48
+translate russian v1_start_e1ee75ad:
+
+    # u "(What am I doing dreaming about Emily?!)"
+    u "(Какого чёрта мне снилась Эмили?!)"
+
+# game/v1/v1.rpy:54
+translate russian v1_start_b74833d7:
+
+    # ju "Good morning, honey."
+    ju "Доброе утро, милый."
+
+# game/v1/v1.rpy:59
+translate russian v1_start_b997b913:
+
+    # u "Morning, Julia."
+    u "Доброе, Джулия."
+
+# game/v1/v1.rpy:64
+translate russian v1_start_6de07b52:
+
+    # ju "Are you excited for today?"
+    ju "Взволнован? Сегодня - большое событие!"
+
+# game/v1/v1.rpy:69
+translate russian v1_start_4331151b:
+
+    # u "Excited?"
+    u "Ты о чём?"
+
+# game/v1/v1.rpy:74
+translate russian v1_start_92971eae:
+
+    # ju "Honey, it's your first day of college. That's a big deal!"
+    ju "Милый, сегодня твой первый день в колледже."
+
+# game/v1/v1.rpy:79
+translate russian v1_start_8f620671:
+
+    # u "I guess you're right."
+    u "Наверное, ты права."
+
+# game/v1/v1.rpy:83
+translate russian v1_start_2eccb6f0:
+
+    # ju "Have you packed all your stuff? Have you printed out all the documents you need? Have you-"
+    ju "Ты собрал свои вещи? Распечатал документы? Есть ли у те-"
+
+# game/v1/v1.rpy:89
+translate russian v1_start_d6c07c0e:
+
+    # u "Julia, it's fine. I packed yesterday."
+    u "Джулия, всё в порядке. Я вчера всё собрал."
+
+# game/v1/v1.rpy:94
+translate russian v1_start_82219ef8:
+
+    # ju "Look at you, all grown-up. I'm so proud of you."
+    ju "Ты смотри, совсем уже взрослый. Я так горжусь тобой."
+
+# game/v1/v1.rpy:99
+translate russian v1_start_52918fb3:
+
+    # ju "You better not forget to come visit."
+    ju "Не забывай приезжать в гости."
+
+# game/v1/v1.rpy:101
+translate russian v1_start_82cfc32d:
+
+    # u "I'll think about it, if you make lasagna."
+    u "Я подумаю, если приготовишь лазанью."
+
+# game/v1/v1.rpy:106
+translate russian v1_start_038be2bb:
+
+    # ju "I'm sure that could be arranged."
+    ju "Уверена, что это можно устроить."
+
+# game/v1/v1.rpy:108
+translate russian v1_start_73181c8a:
+
+    # ju "Anyway, we should get ready, you don't wanna be late on your first day of college!"
+    ju "В любом случае, нам нужно собираться, ты же не хочешь опаздывать в свой первый день в колледже!"
+
+# game/v1/v1.rpy:113
+translate russian v1_start_2498786c:
+
+    # u "Oh, you're dropping me off? I was gonna take the train."
+    u "О, ты меня подбросишь? А то я собирался ехать на поезде."
+
+# game/v1/v1.rpy:118
+translate russian v1_start_687c0a29:
+
+    # ju "No way you're robbing me of the chance to embarrass you in front of your new friends."
+    ju "Ты ни за что не лишишь меня возможности опозорить тебя перед твоими новыми друзьями."
+
+# game/v1/v1.rpy:123
+translate russian v1_start_0d074dd4:
+
+    # u "Thanks, Julia... I'll be 20 minutes."
+    u "Спасибо, Джулия... Я буду через 20 минут."
+
+# game/v1/v1.rpy:128
+translate russian v1_start_9a77e500:
+
+    # u "(I better not lose this bag, Julia loves it.)"
+    u "(Мне лучше не терять эту сумку, Джулия её любит.)"
+
+# game/v1/v1.rpy:132
+translate russian v1_start_8bdb5ed3:
+
+    # u "(Huh?)"
+    u "(А?)"
+
+# game/v1/v1.rpy:155
+translate russian v1_start_a511dde9:
+
+    # u "(I should see who is texting me.)"
+    u "(Кто мне пишет сейчас?)"
+
+# game/v1/v1.rpy:162
+translate russian v1_start_360e66fc:
+
+    # u "(Fuck, I really don't want to see her again after what happened.\nHopefully I can avoid her as much as possible.)"
+    u "(Блядь, не хочу её видеть снова после того, что случилось. Надеюсь, смогу избегать её как можно дольше.)"
+
+# game/v1/v1.rpy:169
+translate russian v1_start_2dac9d0e:
+
+    # ju "You know, when I was in college, there were these fraternities and sororities that everyone wanted to join."
+    ju "Знаешь, когда я училась в колледже, там были всякие братства и женские общества, в которые все хотели вступить."
+
+# game/v1/v1.rpy:171
+translate russian v1_start_ed7737e5:
+
+    # ju "I always thought they were stupid. Binge drinking, idiotic challenges and fighting..."
+    ju "Я всегда считала их глупыми. Пьянки, идиотские вызовы друг другу и драки..."
+
+# game/v1/v1.rpy:177
+translate russian v1_start_22bad4d4:
+
+    # u "Mhm..."
+    u "Мхм...."
+
+# game/v1/v1.rpy:183
+translate russian v1_start_c90fe374:
+
+    # ju "You're not planning on joining one of those, are you?"
+    ju "Ты же не собираешься присоединиться к одному их них, да?"
+
+# game/v1/v1.rpy:192
+translate russian v1_start_5103a9b9:
+
+    # u "I don't know... it might be fun."
+    u "Не знаю... это может быть весело."
+
+# game/v1/v1.rpy:200
+translate russian v1_start_159d4a13:
+
+    # u "No, I don't think so, Julia."
+    u "Нет, Джулия, я так не думаю."
+
+# game/v1/v1.rpy:206
+translate russian v1_start_befaf879:
+
+    # ju "Fraternities can be dangerous, honey."
+    ju "Братства могут быть опасными, милый."
+
+# game/v1/v1.rpy:212
+translate russian v1_start_df08ccc0:
+
+    # ju "My boyfriend in college almost got suspended because he had to steal one of the lecturer's underwear."
+    ju "Моего парня в колледже чуть не исключили, потому что он украл у преподавателя нижнее белье."
+
+# game/v1/v1.rpy:218
+translate russian v1_start_8569c4fa:
+
+    # u "*Chuckles*"
+    u "*Смеётся*"
+
+# game/v1/v1.rpy:224
+translate russian v1_start_c87a6833:
+
+    # ju "Believe me, it's not as fun as it sounds."
+    ju "Поверь, это не так весело, как может показаться."
+
+# game/v1/v1.rpy:230
+translate russian v1_start_6e9b7094:
+
+    # u "Relax, Julia. Over the last couple years colleges have become a lot stricter."
+    u "Расслабься, Джулия. За последние пару лет в колледжах стали строже."
+
+# game/v1/v1.rpy:232
+translate russian v1_start_25342ddd:
+
+    # u "I doubt stuff like that happens anymore."
+    u "Сомневаюсь, что подобные вещи всё ещё случаются."
+
+# game/v1/v1.rpy:238
+translate russian v1_start_2ad87597:
+
+    # ju "Well, that would be a relief."
+    ju "Что ж, так было бы спокойнее."
+
+# game/v1/v1.rpy:244
+translate russian v1_start_3a3a8c6d:
+
+    # ju "Anyways..."
+    ju "Ладно..."
+
+# game/v1/v1.rpy:250
+translate russian v1_start_f6ae9cf3:
+
+    # ju "Sophia told me that Josh is also going to San Vallejo."
+    ju "София сказала мне, что Джош тоже собирается в Сан-Вальехо."
+
+# game/v1/v1.rpy:256
+translate russian v1_start_84ee60dd:
+
+    # u "You hang out with Josh's mom?"
+    u "Ты общаешься с мамой Джоша?"
+
+# game/v1/v1.rpy:262
+translate russian v1_start_b9d51565:
+
+    # ju "We go to the same nail salon."
+    ju "Мы ходим в один маникюрный салон."
+
+# game/v1/v1.rpy:268
+translate russian v1_start_7c46af54:
+
+    # u "Whatever... me and Josh haven't really talked much lately."
+    u "Как бы то ни было ... я и Джош в последнее время особо мало общались."
+
+# game/v1/v1.rpy:270
+translate russian v1_start_a8f5f219:
+
+    # u "(I wonder if he's still dealing...)"
+    u "(Интересно, он всё ещё...)"
+
+# game/v1/v1.rpy:274
+translate russian v1_start_451db5d3:
+
+    # car "*stops*"
+    car "*останавливается*"
+
+# game/v1/v1.rpy:279
+translate russian v1_start_9dc40050:
+
+    # ju "Well, this is it. San Vallejo College."
+    ju "Вот и он. Колледж Сан-Вальехо."
+
+# game/v1/v1.rpy:284
+translate russian v1_start_9ea2f78c:
+
+    # " "
+    " "
+
+# game/v1/v1.rpy:289
+translate russian v1_start_820fdfac:
+
+    # u "Alright, let me grab my bag and I'm ready."
+    u "Хорошо, позволь мне забрать сумку, и я готов."
+
+# game/v1/v1.rpy:296
+translate russian v1_start_f779ad4d:
+
+    # ju "Don't worry, I'll get it for you, honey."
+    ju "Не волнуйся, я достану её для тебя, милый."
+
+# game/v1/v1.rpy:303
+translate russian v1_start_9ea2f78c_1:
+
+    # " "
+    " "
+
+# game/v1/v1.rpy:308
+translate russian v1_start_f3a5d6c9:
+
+    # ju "Here you go."
+    ju "Вот, держи."
+
+# game/v1/v1.rpy:313
+translate russian v1_start_66f145da:
+
+    # u "Thanks, Julia."
+    u "Спасибо, Джулия."
+
+# game/v1/v1.rpy:318
+translate russian v1_start_0e946d2c:
+
+    # ju "Enjoy college, honey."
+    ju "Наслаждайся колледжем, милый."
+
+# game/v1/v1.rpy:320
+translate russian v1_start_8d7d5d1f:
+
+    # ju "Don't forget to visit me."
+    ju "Не забудь меня навестить."
+
+# game/v1/v1.rpy:325
+translate russian v1_start_773e230c:
+
+    # u "I won't, I'll see you soon."
+    u "Не забуду, скоро увидимся."
+
+# game/v1/v1.rpy:330
+translate russian v1_start_d8da752f:
+
+    # u "(Holy shit. I'm actually a college freshman now.)"
+    u "(Срань господня. Я и правда первокурсник.)"
+
+# game/v1/v1.rpy:332
+translate russian v1_start_b4109eb1:
+
+    # u "(And already... so many hot girls.)"
+    u "(И... так много горячих девчонок.)"
+
+# game/v1/v1.rpy:337
+translate russian v1_start_feb36aee:
+
+    # ca "I'm telling you, she was trying to suck me off, while I was taking a shit."
+    ca "Говорю тебе, она пыталась отсосать мне, пока я срал."
+
+# game/v1/v1.rpy:342
+translate russian v1_start_28d3f7bb:
+
+    # ma "Dude, that's my sister you're talking about!"
+    ma "Чувак, ты говоришь о моей сестре!"
+
+# game/v1/v1.rpy:349
+translate russian v1_start_9ea2f78c_2:
+
+    # " "
+    " "
+
+# game/v1/v1.rpy:356
+translate russian v1_start_0f21bb45:
+
+    # ca "Yo, watch where you're fucking walking, bitch!"
+    ca "Эй, смотри, куда ты, блядь, идёшь, сучка!"
+
+# game/v1/v1.rpy:361
+translate russian v1_start_885cc755:
+
+    # u "Sorry man, I didn't mean to..."
+    u "Извини, чел, я не хотел..."
+
+# game/v1/v1.rpy:366
+translate russian v1_start_d8df67ba:
+
+    # ca "Fuck you, if you want a fucking problem, I'll give you a fucking problem!"
+    ca "Да пошёл ты нахуй, если тебе нужна ёбаная проблема, я тебе устрою ёбаную проблему!"
+
+# game/v1/v1.rpy:371
+translate russian v1_start_1b57ce3e:
+
+    # aut "Leave him alone Cameron."
+    aut "Оставь его в покое, Кэмерон."
+
+# game/v1/v1.rpy:373
+translate russian v1_start_304c6a63:
+
+    # aut "Otherwise I'll post the pics and I'm sure you don't want that."
+    aut "Иначе я выложу фотки, а я уверена, что ты этого не захочешь."
+
+# game/v1/v1.rpy:378
+translate russian v1_start_1bf7c341:
+
+    # ca "Fine..."
+    ca "Ладно..."
+
+# game/v1/v1.rpy:380
+translate russian v1_start_2dd477b7:
+
+    # ca "Next time, Mommy won't be there to save you, asshole."
+    ca "В следующий раз, мамочка не спасёт тебя, придурок."
+
+# game/v1/v1.rpy:387
+translate russian v1_start_9ae7cce6:
+
+    # aut "You okay?"
+    aut "Ты в порядке?"
+
+# game/v1/v1.rpy:394
+translate russian v1_start_3cc4a83e:
+
+    # u "Yeah...thanks."
+    u "Да...спасибо."
+
+# game/v1/v1.rpy:396
+translate russian v1_start_e5f4315d:
+
+    # u "I'm [name] by the way."
+    u "Меня зовут [name], кстати."
+
+# game/v1/v1.rpy:401
+translate russian v1_start_c0f5654a:
+
+    # aut "I'm Autumn."
+    aut "А меня Отем."
+
+# game/v1/v1.rpy:403
+translate russian v1_start_791f218c:
+
+    # aut "You're new here right?"
+    aut "Ты здесь новенький?"
+
+# game/v1/v1.rpy:408
+translate russian v1_start_b2b46500:
+
+    # u "Yeah, is it that obvious?"
+    u "Да, это так очевидно?"
+
+# game/v1/v1.rpy:413
+translate russian v1_start_70254a14:
+
+    # aut "It's just that most people would avoid bumping into Cameron at any cost."
+    aut "Просто большинство избегают встречи с Кэмероном."
+
+# game/v1/v1.rpy:420
+translate russian v1_start_4561b8f0:
+
+    # u "It's not as bad if you get to meet a pretty girl afterwards."
+    u "Не так плохо, если ты потом встречаешь хорошенькую девушку."
+
+# game/v1/v1.rpy:425
+translate russian v1_start_a2992451:
+
+    # aut "Uhm..."
+    aut "Эм..."
+
+# game/v1/v1.rpy:430
+translate russian v1_start_eedc251e:
+
+    # u "(Way to make her uncomfortable, Casanova.)"
+    u "(Поставил её в неловкое положение, Казанова.)"
+
+# game/v1/v1.rpy:435
+translate russian v1_start_8bbbb0f2:
+
+    # aut "Anyways, I gotta go. Nice to meet you."
+    aut "Ладно, мне пора. Приятно познакомиться."
+
+# game/v1/v1.rpy:441
+translate russian v1_start_2ee51159:
+
+    # u "Why is that?"
+    u "Почему так?"
+
+# game/v1/v1.rpy:446
+translate russian v1_start_b6a9fd48:
+
+    # aut "He's uhm-"
+    aut "Он эм-"
+
+# game/v1/v1.rpy:448
+translate russian v1_start_15cd2252:
+
+    # aut "Let's just say he doesn't have the best of tempers."
+    aut "Скажем так, он не в духе."
+
+# game/v1/v1.rpy:453
+translate russian v1_start_8bbbb0f2_1:
+
+    # aut "Anyways, I gotta go. Nice to meet you."
+    aut "Ладно, мне пора идти. Приятно познакомиться."
 
