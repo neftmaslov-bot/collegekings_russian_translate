@@ -988,3 +988,11 @@ translate russian strings:
     new "Да, конечно"
     old "Beer, obviously"
     new "Пиво, конечно"
+# TODO: Translation updated at 2025-06-27 10:22
+
+# game/v10/scene26.rpy:29
+translate russian v10_amber_skatepark_e71df1b8:
+
+    # u "(I should reply to amber.)"
+    u "(Я должен ответить Эмбер.)"
+

@@ -4,7 +4,7 @@
 translate russian starta_cf384216:
 
     # em "I know what I did was bad..."
-    em "Я знаю, что сделала плохо ..."
+    em "Я знаю, что сделал плохо ..."
 
 # game/v1/v1.rpy:46
 translate russian starta_64fd2540:
@@ -5525,7 +5525,7 @@ translate russian be_bd_a880f70a:
     # u "Hahaha, sounds like the Dean was into you."
     u "Хахаха, похоже, что ты понравилась декану."
 
-# TODO: Translation updated at 2024-07-02 14:18
+# TODO: Translation updated at 2025-06-27 10:22
 
 # game/v1/v1.rpy:12
 translate russian v1_start_cf384216:
@@ -5573,7 +5573,7 @@ translate russian v1_start_d1bbd257:
 translate russian v1_start_e1ee75ad:
 
     # u "(What am I doing dreaming about Emily?!)"
-    u "(Какого чёрта мне снилась Эмили?!)"
+    u "(Какого чёрта мне снится Эмили?!)"
 
 # game/v1/v1.rpy:54
 translate russian v1_start_b74833d7:
@@ -5603,7 +5603,7 @@ translate russian v1_start_4331151b:
 translate russian v1_start_92971eae:
 
     # ju "Honey, it's your first day of college. That's a big deal!"
-    ju "Милый, сегодня твой первый день в колледже."
+    ju "Милый, твой первый день в колледже."
 
 # game/v1/v1.rpy:79
 translate russian v1_start_8f620671:
@@ -5615,7 +5615,7 @@ translate russian v1_start_8f620671:
 translate russian v1_start_2eccb6f0:
 
     # ju "Have you packed all your stuff? Have you printed out all the documents you need? Have you-"
-    ju "Ты собрал свои вещи? Распечатал документы? Есть ли у те-"
+    ju "Ты собрал все свои вещи? Распечатал все необходимые документы? Есть ли у те-"
 
 # game/v1/v1.rpy:89
 translate russian v1_start_d6c07c0e:
@@ -5627,25 +5627,25 @@ translate russian v1_start_d6c07c0e:
 translate russian v1_start_82219ef8:
 
     # ju "Look at you, all grown-up. I'm so proud of you."
-    ju "Ты смотри, совсем уже взрослый. Я так горжусь тобой."
+    ju "Ты посмотри, совсем уже взрослый. Я так горжусь тобой."
 
 # game/v1/v1.rpy:99
 translate russian v1_start_52918fb3:
 
     # ju "You better not forget to come visit."
-    ju "Не забывай приезжать в гости."
+    ju "Тебе лучше не забывать приезжать в гости."
 
 # game/v1/v1.rpy:101
 translate russian v1_start_82cfc32d:
 
     # u "I'll think about it, if you make lasagna."
-    u "Я подумаю, если приготовишь лазанью."
+    u "Я подумаю, если ты приготовишь лазанью."
 
 # game/v1/v1.rpy:106
 translate russian v1_start_038be2bb:
 
     # ju "I'm sure that could be arranged."
-    ju "Уверена, что это можно устроить."
+    ju "Я уверена, что это можно устроить."
 
 # game/v1/v1.rpy:108
 translate russian v1_start_73181c8a:
@@ -5657,7 +5657,7 @@ translate russian v1_start_73181c8a:
 translate russian v1_start_2498786c:
 
     # u "Oh, you're dropping me off? I was gonna take the train."
-    u "О, ты меня подбросишь? А то я собирался ехать на поезде."
+    u "О, ты меня подбросишь? Я собирался поехать на поезде."
 
 # game/v1/v1.rpy:118
 translate russian v1_start_687c0a29:
@@ -5687,13 +5687,13 @@ translate russian v1_start_8bdb5ed3:
 translate russian v1_start_a511dde9:
 
     # u "(I should see who is texting me.)"
-    u "(Кто мне пишет сейчас?)"
+    u "(Нужно посмотреть кто мне пишет.)"
 
 # game/v1/v1.rpy:162
 translate russian v1_start_360e66fc:
 
     # u "(Fuck, I really don't want to see her again after what happened.\nHopefully I can avoid her as much as possible.)"
-    u "(Блядь, не хочу её видеть снова после того, что случилось. Надеюсь, смогу избегать её как можно дольше.)"
+    u "(Блядь, я действительно не хочу видеть ее снова после того, что случилось. Надеюсь, смогу избегать её как можно дольше.)"
 
 # game/v1/v1.rpy:169
 translate russian v1_start_2dac9d0e:
@@ -5723,7 +5723,7 @@ translate russian v1_start_c90fe374:
 translate russian v1_start_5103a9b9:
 
     # u "I don't know... it might be fun."
-    u "Не знаю... это может быть весело."
+    u "Я не знаю... это может быть весело."
 
 # game/v1/v1.rpy:200
 translate russian v1_start_159d4a13:
@@ -5753,7 +5753,7 @@ translate russian v1_start_8569c4fa:
 translate russian v1_start_c87a6833:
 
     # ju "Believe me, it's not as fun as it sounds."
-    ju "Поверь, это не так весело, как может показаться."
+    ju "Поверьте, это не так весело, как может показаться."
 
 # game/v1/v1.rpy:230
 translate russian v1_start_6e9b7094:
@@ -5765,7 +5765,7 @@ translate russian v1_start_6e9b7094:
 translate russian v1_start_25342ddd:
 
     # u "I doubt stuff like that happens anymore."
-    u "Сомневаюсь, что подобные вещи всё ещё случаются."
+    u "Я сомневаюсь, что подобные вещи всё ещё случаются."
 
 # game/v1/v1.rpy:238
 translate russian v1_start_2ad87597:
@@ -5795,13 +5795,13 @@ translate russian v1_start_84ee60dd:
 translate russian v1_start_b9d51565:
 
     # ju "We go to the same nail salon."
-    ju "Мы ходим в один маникюрный салон."
+    ju "Мы ходим в один и тот же маникюрный салон."
 
 # game/v1/v1.rpy:268
 translate russian v1_start_7c46af54:
 
     # u "Whatever... me and Josh haven't really talked much lately."
-    u "Как бы то ни было ... я и Джош в последнее время особо мало общались."
+    u "Как бы то ни было ... я и Джош в последнее время особо мало разговаривали."
 
 # game/v1/v1.rpy:270
 translate russian v1_start_a8f5f219:
@@ -5819,7 +5819,7 @@ translate russian v1_start_451db5d3:
 translate russian v1_start_9dc40050:
 
     # ju "Well, this is it. San Vallejo College."
-    ju "Вот и он. Колледж Сан-Вальехо."
+    ju "А вот и он. Колледж Сан-Вальехо."
 
 # game/v1/v1.rpy:284
 translate russian v1_start_9ea2f78c:
@@ -5837,7 +5837,7 @@ translate russian v1_start_820fdfac:
 translate russian v1_start_f779ad4d:
 
     # ju "Don't worry, I'll get it for you, honey."
-    ju "Не волнуйся, я достану её для тебя, милый."
+    ju "Не волнуйся, я достану ее для тебя, милый."
 
 # game/v1/v1.rpy:303
 translate russian v1_start_9ea2f78c_1:
@@ -5879,13 +5879,13 @@ translate russian v1_start_773e230c:
 translate russian v1_start_d8da752f:
 
     # u "(Holy shit. I'm actually a college freshman now.)"
-    u "(Срань господня. Я и правда первокурсник.)"
+    u "(Срань господня. Я и правда первокурсник колледжа.)"
 
 # game/v1/v1.rpy:332
 translate russian v1_start_b4109eb1:
 
     # u "(And already... so many hot girls.)"
-    u "(И... так много горячих девчонок.)"
+    u "(И уже... так много горячих девушек.)"
 
 # game/v1/v1.rpy:337
 translate russian v1_start_feb36aee:
@@ -5993,7 +5993,7 @@ translate russian v1_start_70254a14:
 translate russian v1_start_4561b8f0:
 
     # u "It's not as bad if you get to meet a pretty girl afterwards."
-    u "Не так плохо, если ты потом встречаешь хорошенькую девушку."
+    u "Это не так плохо, если ты потом встречаешь хорошенькую девушку."
 
 # game/v1/v1.rpy:425
 translate russian v1_start_a2992451:
@@ -6011,7 +6011,7 @@ translate russian v1_start_eedc251e:
 translate russian v1_start_8bbbb0f2:
 
     # aut "Anyways, I gotta go. Nice to meet you."
-    aut "Ладно, мне пора. Приятно познакомиться."
+    aut "Ладно, мне пора идти. Приятно познакомиться."
 
 # game/v1/v1.rpy:441
 translate russian v1_start_2ee51159:
